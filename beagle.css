@@ -1,0 +1,27 @@
+#section1 {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 10px 0;
+}
+
+#link1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: larger;
+  color: black;
+  margin: 20px;
+}
+
+.li {
+  margin: 5px 0;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: large;
+}
+
+.sec1 {
+  margin: 5px;
+}
